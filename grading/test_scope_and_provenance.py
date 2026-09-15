@@ -1,0 +1,1 @@
+Hidden checks validate strict trial and amendment isolation, draft exclusion, cache scope sensitivity, and exact citation resolvability against fixture passages.

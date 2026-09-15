@@ -1,0 +1,1 @@
+Hidden checks validate reproducible separated quality dimensions, regression detection, and rollout-verdict behavior without exposing policy constants.
